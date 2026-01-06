@@ -1,3 +1,4 @@
+CREATE DATABASE demo_db;
 USE demo_db;
 SHOW TABLES;
 SELECT * FROM users;
